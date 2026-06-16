@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Tempo Strike",
+  "description": "雙人銀髮合作手腦協調節奏擊月鼓！可選慢／中／快速，支持視訊或雙人螢幕觸碰與日夜主題模式，在 MIT App Inventor 的 WebBrowser 能輕鬆流暢運行！",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
